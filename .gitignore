@@ -1,5 +1,5 @@
 .env
 log/*
-public/
+# public/
 node_modules/
 spec/examples.txt
