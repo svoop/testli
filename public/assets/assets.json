@@ -1,5 +1,11 @@
 {
   "favicon.ico": {
     "url": "/assets/favicon-B8DAB077.ico"
+  },
+  "dog1/dog.jpg": {
+    "url": "/assets/dog1/dog-32B19C9E.jpg"
+  },
+  "dog2/dog.jpg": {
+    "url": "/assets/dog2/dog-32B19C9E.jpg"
   }
 }
